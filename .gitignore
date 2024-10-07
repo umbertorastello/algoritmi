@@ -1,0 +1,14 @@
+*.csv
+*.docx
+*.txt
+
+#PER LA PARTE JAVA
+*/classes
+*/*.jar
+*/README.txt
+
+
+#PER LA PARTE C
+*/bin
+*/build
+*/src/unity*
